@@ -1,3 +1,3 @@
-alphabet = "abcdefghijklmnoprstuvwxyz"
+alphabet = "abcdefghijklmnopqrstuvwxyz"
 numbers = "0123456789"
 special_characters = "@#$%&*"
